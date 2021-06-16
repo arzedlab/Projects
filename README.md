@@ -12,15 +12,15 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 Numbers
 ---------
 
-[**Find PI to the Nth Digit**](https://github.com/whoshuu/Projects/blob/master/Numbers/pi.py) – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
+**Find PI to the Nth Digit** – Enter a number and have the program generate PI up to that many decimal places. Keep a limit to how far the program will go.
 
-[**Fibonacci Sequence**](https://github.com/whoshuu/Projects/blob/master/Numbers/fibonacci.py) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
+[**Fibonacci Sequence** – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-[**Prime Factorization**](https://github.com/whoshuu/Projects/blob/master/Numbers/prime.py) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+**Prime Factorization** – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**Next Prime Number**](https://github.com/whoshuu/Projects/blob/master/Numbers/next_prime.py) – Have the program find prime numbers until the user chooses to stop asking for the next one.
+**Next Prime Number** – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-[**Find Cost of Tile to Cover W x H Floor**](https://github.com/whoshuu/Projects/blob/master/Numbers/tiles.py) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+**Find Cost of Tile to Cover W x H Floor** – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
 **Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
