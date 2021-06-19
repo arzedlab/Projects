@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+# Find Cost of Tile to Cover W x H Floor
 def tile_calc(width,height,cost):
     # Cost is for 1x1 tile
     return width * height * cost
