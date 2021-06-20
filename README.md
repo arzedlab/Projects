@@ -17,9 +17,9 @@ Numbers
 
 :heavy_check_mark:[**Next Prime Number**](https://github.com/arzed-lab/Projects/tree/master/Numbers/Next%20Prime%20Number) – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
-:heavy_check_mark:[**Find Cost of Tile to Cover W x H Floor**](https://github.com/arzed-lab/Projects/blob/master/Numbers/Find%20Cost%20of%20Tile%20to%20Cover%20W%20x%20H%20Floor/main.py) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
+:heavy_check_mark:[**FWind Cost of Tile to C0over W x H Floor**](https://github.com/arzed-lab/Projects/blob/master/Numbers/Find%20Cost%20of%20Tile%20to%20Cover%20W%20x%20H%20Floor/main.py) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
-**Mortgage Calculator** – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
+:heavy_check_mark:[**Mortgage Calculator**](https://github.com/arzed-lab/Projects/tree/master/Numbers/Mortgage%20Calculator) – Calculate the monthly payments of a fixed term mortgage over given Nth terms at a given interest rate. Also figure out how long it will take the user to pay back the loan.
 
 **Change Return Program** – The user enters a cost and then the amount of money given. The program will figure out the change and the number of quarters, dimes, nickels, pennies needed for the change.
 
